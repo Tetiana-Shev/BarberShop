@@ -30,7 +30,7 @@ body {
     line-height: 1.86;
     letter-spacing: 0.02em;}
 
-    /*HEADER*/
+    /*------------------------HEADER--------------------------*/
 .header {
     background-color: var(--accent-bgc);
 }
@@ -78,7 +78,7 @@ body {
     background-color: transparent;
 }
 
-/*HERO*/
+/*----------------------------HERO---------------------------------*/
 .section {
     
 }
@@ -313,6 +313,9 @@ body {
     font-size: 18px;
     line-height: 1.67;
 }
+
+/* -------------------------FOOTER--------------------------*/
+
 .footer {
 }
 .footer-text {
